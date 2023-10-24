@@ -15,20 +15,31 @@
 
 ## 👨‍💻 About Me
 
-I'm a baccalaureate student in Tunisia :tunisia: pursuing a baccalaureate in Technologie 🎓.  
-I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to 💻. I'm currently into Web Development 🕸️ especially large scale projects🎇.
+👨‍💻 A Computer Science Engineering student at the University of Debrecen  🇭🇺, embarking on an exciting journey where technology, entrepreneurship, and social impact converge. My story is one of continuous growth, innovation, and a drive to make a positive difference.
+
+🚀 Ever since I was young, I've been deeply passionate about programming. My journey into the world of technology began with a fascination for how things work and a love for solving problems through code. It's this early interest that has been the guiding force throughout my life.
+
+⚙️ After a life-changing experience with MentorNations, a remarkable NGO dedicated to digital inclusion. I joined their team as a Mentor where I had the privilege of mentoring teams in web development and collaborating on various projects. It was here that I witnessed firsthand the transformative power of technology in empowering communities and creating positive change.
+
+🏆 During that time, I dived into the world of competitive programming, where I had the honor to become a member of the national team. And in 2022 🥇 I achieved the 4th place in the Tunisian Olympiad of Informatics (TOP); it was a testament to my problem-solving skills and my ability to thrive in the fast-paced world of technology.
+
+💛My experience with Enactus 🌵 at INSAT 🧱 further fueled my passion for entrepreneurship and social impact. Enactus opened my eyes to the endless possibilities that arise at the intersection of business and technology, inspiring me to leverage technology not only as a tool for innovation but also as a catalyst for meaningful social change.
+
+🌟Today, I stand at the crossroads of technology and entrepreneurship, driven by a commitment to leverage my technical expertise, entrepreneurial spirit, and passion for social impact to drive innovation and create value. Whether it's coding web solutions, exploring entrepreneurial ventures, or collaborating with fellow change-makers, I'm excited about the journey ahead.
+
+🤝I welcome the opportunity to connect with like-minded individuals, innovators, and tech enthusiasts. Let's connect and embark on this incredible journey together.
 
   <img align="right" height="240px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 - 🚀 I’m currently working on my own StartUp 🤫.
 
-- 🌱 I’m currently learning Nrwl Nx & Docker.
+- 🌱 I’m currently learning DevOps.
 
 - 💬 Ask me anything 🤓
 
 - 📫 How to reach me: [My Contacts](#-contact-me)
 
-- 🥅 2021 Goals: Contribute more to Open Source
+- 🥅 2023 Goals: Contribute more to Open Source
 
 - ⚡ Fun fact: Understanding programming memes dosen't make you a programmer.  
 
